@@ -2,5 +2,5 @@ Welcome to my project
 
 
 
-authour:Ghana
+authour:Ghana Vishnuvardhan
 twiter:@ghana
